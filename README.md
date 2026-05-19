@@ -2,7 +2,6 @@
 
 Aplicación de escritorio desarrollada en C# con Windows Forms que permite gestionar el inventario de productos de un local de electrodomésticos. Implementa las cuatro operaciones básicas sobre una base de datos SQL Server usando ADO.NET directamente, sin ORM.
 
-Práctica académica **TI-PA-APE-04** — Programación Avanzada, Universidad Técnica de Ambato.
 
 ---
 
